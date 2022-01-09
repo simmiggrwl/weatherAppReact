@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/react-cosmos/create-react-app-example/static/css/main.015ec0e4.chunk.css",
+    "main.js": "/react-cosmos/create-react-app-example/static/js/main.159a95e7.chunk.js",
+    "main.js.map": "/react-cosmos/create-react-app-example/static/js/main.159a95e7.chunk.js.map",
+    "runtime-main.js": "/react-cosmos/create-react-app-example/static/js/runtime-main.5eeaa594.js",
+    "runtime-main.js.map": "/react-cosmos/create-react-app-example/static/js/runtime-main.5eeaa594.js.map",
+    "static/js/2.aea32d7e.chunk.js": "/react-cosmos/create-react-app-example/static/js/2.aea32d7e.chunk.js",
+    "static/js/2.aea32d7e.chunk.js.map": "/react-cosmos/create-react-app-example/static/js/2.aea32d7e.chunk.js.map",
+    "index.html": "/react-cosmos/create-react-app-example/index.html",
+    "precache-manifest.b61d506948044d5008bd4dd2c5af023a.js": "/react-cosmos/create-react-app-example/precache-manifest.b61d506948044d5008bd4dd2c5af023a.js",
+    "service-worker.js": "/react-cosmos/create-react-app-example/service-worker.js",
+    "static/css/main.015ec0e4.chunk.css.map": "/react-cosmos/create-react-app-example/static/css/main.015ec0e4.chunk.css.map",
+    "static/media/index.css": "/react-cosmos/create-react-app-example/static/media/bg1.860379a7.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5eeaa594.js",
+    "static/js/2.aea32d7e.chunk.js",
+    "static/css/main.015ec0e4.chunk.css",
+    "static/js/main.159a95e7.chunk.js"
+  ]
+}
